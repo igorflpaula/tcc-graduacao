@@ -5,7 +5,7 @@ Este repositório contém o texto completo do meu Trabalho de Conclusão de Curs
 Este é o texto integral do meu TCC, que aborda o desenvolvimento de um sistema para transcrições textuais e a criação de ATAS formatadas.
 
 ## Estrutura do Repositório
-/docs: Contém a versão final do meu TCC em formato PDF.
+/artigo...: Contém a versão final do meu TCC em formato PDF.
 
 ## Outros Repositórios Relacionados
 Repositório Front: https://github.com/igorflpaula/transcription-frontend-tcc
