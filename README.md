@@ -17,6 +17,7 @@ Se você encontrar problemas, erros ou tiver sugestões, fique à vontade para a
 
 ### Contato
 Igor Francisco Lima de Paula
-igorfldepaula@gmail.com
+Email: igorfldepaula@gmail.com
+LinkedIn: https://www.linkedin.com/in/igor-fl-de-paula
 
 Obrigado por visitar meu repositório! 🚀
