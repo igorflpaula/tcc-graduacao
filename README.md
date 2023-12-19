@@ -16,8 +16,8 @@ Repositório Back: https://github.com/igorflpaula/transcription-backend-tcc
 Se você encontrar problemas, erros ou tiver sugestões, fique à vontade para abrir uma issue. Contribuições são bem-vindas!
 
 ### Contato
-Igor Francisco Lima de Paula
-Email: igorfldepaula@gmail.com
-LinkedIn: https://www.linkedin.com/in/igor-fl-de-paula
+* Igor de Paula
+* Email: igorfldepaula@gmail.com
+* LinkedIn: https://www.linkedin.com/in/igor-fl-de-paula
 
 Obrigado por visitar meu repositório! 🚀
